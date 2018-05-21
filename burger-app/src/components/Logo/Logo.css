@@ -1,0 +1,14 @@
+.Logo {
+  width: 50%;
+  margin: 13px 0 0 0;
+  height: 100%;
+}
+
+.Logo img {
+  height: 28px;
+
+}
+
+.LogoPos {
+  float: right;
+}
